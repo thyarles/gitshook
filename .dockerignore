@@ -107,5 +107,6 @@ dist
 /.idea
 .git
 Dockerfile
+docker-compose.yml
 .eslintrc.json
 README.md
